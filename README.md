@@ -1,4 +1,4 @@
-# BooleanRetrievalModel
+# Boolean Retrieval Model
 A simple CLI-based Boolean Retrieval Model that processes boolean, positional and phrase queries using C++
 To run this cpp file, Visual Studio Code is required.
 
