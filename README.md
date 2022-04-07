@@ -1,7 +1,7 @@
 # Boolean Retrieval Model
 A simple CLI-based Boolean Retrieval Model that processes boolean, positional and phrase queries using C++
 To run this cpp file, Visual Studio Code is required.
-Unzip the Abstracts.rar and oleanderstemminglibrary.rar in the same file as Code.cpp
+Unzip the Abstracts.rar and oleanderstemminglibrary.rar in the same file as BooleanRetrievalModel.cpp
 
 Additionally, as C++ does not include a built in stemming library, a stemming library by the name of oleanderstemminglibrary (which has been included as a zip) must be included in the same directory (unzipped) as the code at the time of execution, alongside the Abstracts folder (unzipped) and the Stopword-List.txt file as well.
 
